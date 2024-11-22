@@ -33,7 +33,7 @@ public class BaseTest {
     public Properties p;
     
     @Parameters({"os", "browser"})
-    @BeforeClass(groups = {"Register","DataDriven","Master"})
+    @BeforeClass(groups = {"Register","login","DataDriven","Master"})
     public void setup(@Optional("Windows") String os, @Optional("chrome") String br) throws IOException { 
     	logger = LogManager.getLogger(this.getClass());
         // Load the configuration properties file
@@ -130,7 +130,7 @@ public class BaseTest {
         return targetFilePath;
     }
 
-    @AfterClass(groups = {"Register","DataDriven","Master"})
+    @AfterClass(groups = {"Register","login","DataDriven","Master"})
     public void teardown() {
         if (driver != null) {
             driver.quit();

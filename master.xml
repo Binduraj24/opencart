@@ -5,14 +5,16 @@
 <run>
 <include name="Register"/>
         <include name="login"/>
-        <include name="DataDriven"></include>
+        <include name="DataDriven"/>
+          <include name="Master"/>
+     
 
 </run>
 </groups>
 <listeners>
 <listener class-name="utilities.ExtentReportManager"></listener>
 </listeners>
-  <test name="test" thread-count="5">
+  <test name="test" thread-count="4">
   <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
   
@@ -20,7 +22,7 @@
      
       <class name="Testcases.RegistrationTestPage"></class>
        <class name="Testcases.LoginTest"/>
-   <!--<class name="Testcases.LoginDDTest"/>-->
+  <!-- <class name="Testcases.LoginDDTest"/>-->
     </classes>
   </test>
   

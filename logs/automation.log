@@ -1,93 +1,139 @@
-2024-11-21 10:45:57 INFO  Utils:112 - [TestNG] Running:
+2024-11-22 11:18:00 INFO  Utils:112 - [TestNG] Running:
   C:\Users\himab\eclipse-workspace\selenium\master.xml
 
-2024-11-21 10:46:03 INFO  RegistrationTestPage:18 - Starting the application for account registration
-2024-11-21 10:46:03 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
-2024-11-21 10:46:03 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
-2024-11-21 10:46:03 INFO  RegistrationTestPage:27 - User clicked on the register option
-2024-11-21 10:46:03 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
-2024-11-21 10:46:04 INFO  RegistrationTestPage:35 - Entered first name: RRCXX
-2024-11-21 10:46:04 INFO  RegistrationTestPage:39 - Entered last name: ISBXP
-2024-11-21 10:46:04 INFO  RegistrationTestPage:43 - Entered email: Ncshy@gmail.com
-2024-11-21 10:46:04 INFO  RegistrationTestPage:47 - Entered phone number: 0833803759
-2024-11-21 10:46:04 INFO  RegistrationTestPage:51 - Entered password
-2024-11-21 10:46:04 INFO  RegistrationTestPage:54 - Confirmed the password
-2024-11-21 10:46:04 INFO  RegistrationTestPage:57 - Selected the radio button
-2024-11-21 10:46:04 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
-2024-11-21 10:46:07 INFO  RegistrationTestPage:63 - Submitted the registration form
-2024-11-21 10:46:07 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
-2024-11-21 10:46:07 INFO  RegistrationTestPage:68 - Account registration process completed
-2024-11-21 10:46:09 INFO  LoginTest:15 - starting the login process
-2024-11-21 10:46:10 INFO  LoginTest:35 - finished the login process
-2024-11-21 10:46:13 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:46:24 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:46:36 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:46:37 INFO  LoginDDTest:56 - finished the logindatadriven process
-2024-11-21 10:46:37 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:46:48 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:58:58 INFO  RegistrationTestPage:18 - Starting the application for account registration
-2024-11-21 10:58:59 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
-2024-11-21 10:58:59 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
-2024-11-21 10:58:59 INFO  RegistrationTestPage:27 - User clicked on the register option
-2024-11-21 10:58:59 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
-2024-11-21 10:58:59 INFO  RegistrationTestPage:35 - Entered first name: ZETAD
-2024-11-21 10:58:59 INFO  RegistrationTestPage:39 - Entered last name: DAVAQ
-2024-11-21 10:58:59 INFO  RegistrationTestPage:43 - Entered email: awdMg@gmail.com
-2024-11-21 10:59:00 INFO  RegistrationTestPage:47 - Entered phone number: 7658734502
-2024-11-21 10:59:00 INFO  RegistrationTestPage:51 - Entered password
-2024-11-21 10:59:00 INFO  RegistrationTestPage:54 - Confirmed the password
-2024-11-21 10:59:00 INFO  RegistrationTestPage:57 - Selected the radio button
-2024-11-21 10:59:00 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
-2024-11-21 10:59:03 INFO  RegistrationTestPage:63 - Submitted the registration form
-2024-11-21 10:59:03 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
-2024-11-21 10:59:03 INFO  RegistrationTestPage:68 - Account registration process completed
-2024-11-21 10:59:05 INFO  LoginTest:15 - starting the login process
-2024-11-21 10:59:07 INFO  LoginTest:35 - finished the login process
-2024-11-21 10:59:10 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:59:23 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:59:35 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:59:37 INFO  LoginDDTest:58 - finished the logindatadriven process
-2024-11-21 10:59:37 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 10:59:49 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:23:12 INFO  RegistrationTestPage:18 - Starting the application for account registration
-2024-11-21 11:23:12 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
-2024-11-21 11:23:12 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
-2024-11-21 11:23:13 INFO  RegistrationTestPage:27 - User clicked on the register option
-2024-11-21 11:23:13 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
-2024-11-21 11:23:13 INFO  RegistrationTestPage:35 - Entered first name: NBCJA
-2024-11-21 11:23:13 INFO  RegistrationTestPage:39 - Entered last name: HIEHD
-2024-11-21 11:23:13 INFO  RegistrationTestPage:43 - Entered email: CSDap@gmail.com
-2024-11-21 11:23:13 INFO  RegistrationTestPage:47 - Entered phone number: 7350546703
-2024-11-21 11:23:13 INFO  RegistrationTestPage:51 - Entered password
-2024-11-21 11:23:14 INFO  RegistrationTestPage:54 - Confirmed the password
-2024-11-21 11:23:14 INFO  RegistrationTestPage:57 - Selected the radio button
-2024-11-21 11:23:14 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
-2024-11-21 11:23:17 INFO  RegistrationTestPage:63 - Submitted the registration form
-2024-11-21 11:23:17 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
-2024-11-21 11:23:17 INFO  RegistrationTestPage:68 - Account registration process completed
-2024-11-21 11:23:19 INFO  LoginTest:15 - starting the login process
-2024-11-21 11:23:21 INFO  LoginTest:35 - finished the login process
-2024-11-21 11:23:25 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:23:37 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:23:49 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:23:52 INFO  LoginDDTest:58 - finished the logindatadriven process
-2024-11-21 11:23:52 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:24:04 INFO  LoginDDTest:16 - starting the login process
-2024-11-21 11:25:12 INFO  RegistrationTestPage:18 - Starting the application for account registration
-2024-11-21 11:25:12 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
-2024-11-21 11:25:12 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
-2024-11-21 11:25:12 INFO  RegistrationTestPage:27 - User clicked on the register option
-2024-11-21 11:25:12 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
-2024-11-21 11:25:13 INFO  RegistrationTestPage:35 - Entered first name: PKKDK
-2024-11-21 11:25:13 INFO  RegistrationTestPage:39 - Entered last name: BWTWG
-2024-11-21 11:25:13 INFO  RegistrationTestPage:43 - Entered email: bGqIG@gmail.com
-2024-11-21 11:25:13 INFO  RegistrationTestPage:47 - Entered phone number: 1586522977
-2024-11-21 11:25:13 INFO  RegistrationTestPage:51 - Entered password
-2024-11-21 11:25:13 INFO  RegistrationTestPage:54 - Confirmed the password
-2024-11-21 11:25:14 INFO  RegistrationTestPage:57 - Selected the radio button
-2024-11-21 11:25:14 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
-2024-11-21 11:25:17 INFO  RegistrationTestPage:63 - Submitted the registration form
-2024-11-21 11:25:17 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
-2024-11-21 11:25:17 INFO  RegistrationTestPage:68 - Account registration process completed
-2024-11-21 11:25:19 INFO  LoginTest:15 - starting the login process
-2024-11-21 11:25:21 INFO  LoginTest:35 - finished the login process
+2024-11-22 11:18:07 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 11:18:07 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 11:18:23 INFO  LoginTest:15 - starting the login process
+2024-11-22 11:42:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 11:42:56 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 11:42:56 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 11:43:14 INFO  LoginTest:15 - starting the login process
+2024-11-22 12:41:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:41:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:44:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:45:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:57:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:59:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 12:59:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 13:28:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 13:29:03 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 13:29:03 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 13:29:03 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
+2024-11-22 13:29:04 INFO  RegistrationTestPage:27 - User clicked on the register option
+2024-11-22 13:29:04 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
+2024-11-22 13:29:04 INFO  RegistrationTestPage:35 - Entered first name: LVNPJ
+2024-11-22 13:29:04 INFO  RegistrationTestPage:39 - Entered last name: GKXRD
+2024-11-22 13:29:04 INFO  RegistrationTestPage:43 - Entered email: dAtgO@gmail.com
+2024-11-22 13:29:04 INFO  RegistrationTestPage:47 - Entered phone number: 6930925053
+2024-11-22 13:29:04 INFO  RegistrationTestPage:51 - Entered password
+2024-11-22 13:29:05 INFO  RegistrationTestPage:54 - Confirmed the password
+2024-11-22 13:29:05 INFO  RegistrationTestPage:57 - Selected the radio button
+2024-11-22 13:29:05 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
+2024-11-22 13:29:06 INFO  RegistrationTestPage:63 - Submitted the registration form
+2024-11-22 13:29:06 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
+2024-11-22 13:29:06 INFO  RegistrationTestPage:68 - Account registration process completed
+2024-11-22 13:29:10 INFO  LoginTest:15 - starting the login process
+2024-11-22 13:29:13 INFO  LoginTest:35 - finished the login process
+2024-11-22 13:29:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 13:29:41 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 13:29:41 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 13:29:42 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
+2024-11-22 13:29:42 INFO  RegistrationTestPage:27 - User clicked on the register option
+2024-11-22 13:29:42 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
+2024-11-22 13:29:42 INFO  RegistrationTestPage:35 - Entered first name: IXHOT
+2024-11-22 13:29:43 INFO  RegistrationTestPage:39 - Entered last name: XSCVF
+2024-11-22 13:29:43 INFO  RegistrationTestPage:43 - Entered email: ZeJKA@gmail.com
+2024-11-22 13:29:43 INFO  RegistrationTestPage:47 - Entered phone number: 8197544565
+2024-11-22 13:29:43 INFO  RegistrationTestPage:51 - Entered password
+2024-11-22 13:29:43 INFO  RegistrationTestPage:54 - Confirmed the password
+2024-11-22 13:29:43 INFO  RegistrationTestPage:57 - Selected the radio button
+2024-11-22 13:29:43 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
+2024-11-22 13:29:45 INFO  RegistrationTestPage:63 - Submitted the registration form
+2024-11-22 13:29:45 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
+2024-11-22 13:29:45 INFO  RegistrationTestPage:68 - Account registration process completed
+2024-11-22 13:29:49 INFO  LoginTest:15 - starting the login process
+2024-11-22 13:29:51 INFO  LoginTest:35 - finished the login process
+2024-11-22 13:29:56 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 13:31:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\himab\eclipse-workspace\selenium\master.xml
+
+2024-11-22 13:31:28 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 13:31:28 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 13:31:28 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
+2024-11-22 13:31:29 INFO  RegistrationTestPage:27 - User clicked on the register option
+2024-11-22 13:31:29 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
+2024-11-22 13:31:29 INFO  RegistrationTestPage:35 - Entered first name: AVICN
+2024-11-22 13:31:29 INFO  RegistrationTestPage:39 - Entered last name: SPMCX
+2024-11-22 13:31:29 INFO  RegistrationTestPage:43 - Entered email: yXNCu@gmail.com
+2024-11-22 13:31:29 INFO  RegistrationTestPage:47 - Entered phone number: 9633879933
+2024-11-22 13:31:29 INFO  RegistrationTestPage:51 - Entered password
+2024-11-22 13:31:30 INFO  RegistrationTestPage:54 - Confirmed the password
+2024-11-22 13:31:30 INFO  RegistrationTestPage:57 - Selected the radio button
+2024-11-22 13:31:30 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
+2024-11-22 13:31:31 INFO  RegistrationTestPage:63 - Submitted the registration form
+2024-11-22 13:31:31 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
+2024-11-22 13:31:31 INFO  RegistrationTestPage:68 - Account registration process completed
+2024-11-22 13:31:35 INFO  LoginTest:15 - starting the login process
+2024-11-22 13:31:38 INFO  LoginTest:35 - finished the login process
+2024-11-22 13:31:43 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 13:31:55 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 13:31:58 INFO  LoginDDTest:58 - finished the logindatadriven process
+2024-11-22 13:31:58 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 13:32:08 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 13:32:19 INFO  LoginDDTest:16 - starting the login process
+2024-11-22 14:06:26 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 14:06:26 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 14:06:26 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
+2024-11-22 14:06:27 INFO  RegistrationTestPage:27 - User clicked on the register option
+2024-11-22 14:06:27 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
+2024-11-22 14:06:27 INFO  RegistrationTestPage:35 - Entered first name: SLQLY
+2024-11-22 14:06:28 INFO  RegistrationTestPage:39 - Entered last name: OAXIV
+2024-11-22 14:06:28 INFO  RegistrationTestPage:43 - Entered email: xOkDI@gmail.com
+2024-11-22 14:06:28 INFO  RegistrationTestPage:47 - Entered phone number: 0223948507
+2024-11-22 14:06:28 INFO  RegistrationTestPage:51 - Entered password
+2024-11-22 14:06:28 INFO  RegistrationTestPage:54 - Confirmed the password
+2024-11-22 14:06:28 INFO  RegistrationTestPage:57 - Selected the radio button
+2024-11-22 14:06:28 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
+2024-11-22 14:06:29 INFO  RegistrationTestPage:63 - Submitted the registration form
+2024-11-22 14:06:30 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
+2024-11-22 14:06:30 INFO  RegistrationTestPage:68 - Account registration process completed
+2024-11-22 14:06:34 INFO  LoginTest:15 - starting the login process
+2024-11-22 14:06:36 INFO  LoginTest:35 - finished the login process
+2024-11-22 15:17:21 INFO  RegistrationTestPage:18 - Starting the application for account registration
+2024-11-22 15:17:21 INFO  RegistrationTestPage:21 - Navigating to the homepage and initializing the Homepage object
+2024-11-22 15:17:21 INFO  RegistrationTestPage:24 - User clicked on the account dropdown
+2024-11-22 15:17:22 INFO  RegistrationTestPage:27 - User clicked on the register option
+2024-11-22 15:17:22 INFO  RegistrationTestPage:31 - Initialized the RegistrationPage object
+2024-11-22 15:17:22 INFO  RegistrationTestPage:35 - Entered first name: FNYHT
+2024-11-22 15:17:22 INFO  RegistrationTestPage:39 - Entered last name: UZAGA
+2024-11-22 15:17:22 INFO  RegistrationTestPage:43 - Entered email: sUFtg@gmail.com
+2024-11-22 15:17:22 INFO  RegistrationTestPage:47 - Entered phone number: 6250577142
+2024-11-22 15:17:22 INFO  RegistrationTestPage:51 - Entered password
+2024-11-22 15:17:22 INFO  RegistrationTestPage:54 - Confirmed the password
+2024-11-22 15:17:22 INFO  RegistrationTestPage:57 - Selected the radio button
+2024-11-22 15:17:23 INFO  RegistrationTestPage:60 - Checked the terms and conditions checkbox
+2024-11-22 15:17:24 INFO  RegistrationTestPage:63 - Submitted the registration form
+2024-11-22 15:17:24 INFO  RegistrationTestPage:66 - Retrieved confirmation message: Your Account Has Been Created!
+2024-11-22 15:17:24 INFO  RegistrationTestPage:68 - Account registration process completed
+2024-11-22 15:17:27 INFO  LoginTest:15 - starting the login process
+2024-11-22 15:17:29 INFO  LoginTest:35 - finished the login process
